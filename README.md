@@ -1,2 +1,2 @@
 # ProjetSimplexJeux
-Ce répertoire présente la résolution de 2 jeux par la méthode simplex en utilisant le langage Julia .
+Modelization of two games using linear constraints in the Julia language and resolving them by the Simplex algorithm
